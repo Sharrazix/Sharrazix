@@ -7,7 +7,8 @@ I am a Python developer
 I've been programming for three years
 
 *   I'm open to collaborating on different projects
-*   Developing bots on aiogram 3 or pyrogram 
+*   Developing bots on aiogram 3 and pyrogram
+*   Automation with selenium
 
 ### Skills
 
