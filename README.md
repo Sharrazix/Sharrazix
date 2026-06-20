@@ -1,6 +1,6 @@
 ### Hi, I'm Artiom 👋
 
-Python backend developer — building trading bots, automation and API integrations for ~5 years.
+Python backend developer: building trading bots, automation and API integrations for ~5 years
 
 Backend and trading automation: bots, API integrations, and keeping existing systems
 stable: debugging, optimizing, performance. 2 years of team experience behind clean,
